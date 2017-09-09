@@ -1,0 +1,105 @@
+.A{
+	background-color: #eeeff2;
+	width: 100px;
+	height: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 40px;
+	font-family: Tahoma;
+	float: left;
+	margin:10px;
+	border-left-style: dashed;
+	border-width: 10px;
+	border-color: #D0D0FF;
+	padding: 10px;
+
+}
+.B{
+	background-color: #eeeff2;
+	width: 100px;
+	height: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 40px;
+	font-family: Tahoma;
+	float: left;
+	margin:10px;
+	border-left-style: dashed;
+	border-width: 10px;
+	border-color: #D0D0FF;
+	padding: 10px;
+}
+.C{
+	background-color: #eeeff2;
+	width: 100px;
+	height: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 40px;
+	font-family: Tahoma;
+	float: left;
+	margin:10px;
+	border-left-style: dashed;
+	border-width: 10px;
+	border-color: #D0D0FF;
+	padding: 10px;
+}
+.D{
+	background-color: #eeeff2;
+	width: 100px;
+	height: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 40px;
+	font-family: Tahoma;
+	float: left;
+	margin:10px;
+	border-left-style: dashed;
+	border-width: 10px;
+	border-color: #D0D0FF;
+	padding: 10px;
+}
+.E{
+	background-color: #eeeff2;
+	width: 100px;
+	height: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 40px;
+	font-family: Tahoma;
+	float: left;
+	margin:10px;
+	border-left-style: dashed;
+	border-width: 10px;
+	border-color: #D0D0FF;
+	padding: 10px;
+}
+.F{
+	background-color: #eeeff2;
+	width: 100px;
+	height: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 40px;
+	font-family: Tahoma;
+	float: left;
+	margin:10px;
+	border-left-style: dashed;
+	border-width: 10px;
+	border-color: #D0D0FF;
+	padding: 10px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+
+body{
+	font-family: Tahoma;
+	margin:10px;
+}
+.A:hover{
+	background-color: yellow;
+	color: goldenrod;
+	cursor: pointer;
+}

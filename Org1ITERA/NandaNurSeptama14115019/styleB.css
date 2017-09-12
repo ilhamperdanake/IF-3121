@@ -1,0 +1,103 @@
+#A1{
+    width: 100px;
+    height: 130px;
+    font-family: tahoma;
+    text-align: left;
+    font-size: 40px;
+    float: left;
+    background-color: #eeeff2;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-left-style: dashed;
+    border-left-color: black;
+    border-left-height:5px;
+    border-left-width: 10px;
+    cursor: pointer;
+}
+.A2{
+  
+    width: 100px;
+    height: 130px;
+    font-family: tahoma;
+    font-size: 40px;
+    float: left;
+    background-color: #eeeff2;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-left-style: dashed;
+    border-left-color: black;
+    border-left-height:5px;
+    border-left-width: 10px;
+    cursor: pointer;
+}
+#A6{ 
+    width: 100px;
+    height: 130px;
+    font-family: tahoma;
+    text-align: left;
+    float: right;
+    font-size: 40px;
+    background-color: #eeeff2;
+    margin-top: 480px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-left-style: dashed;
+    border-left-color: black;
+    border-left-height:5px;
+    border-left-width: 10px;
+    cursor: pointer;
+}
+.A2:hover{
+  
+    width: 100px;
+    height: 130px;
+    font-family: tahoma;
+    font-size: 40px;
+    float: left;
+    background-color: yellow;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-left-style: dashed;
+    border-left-color: black;
+    border-left-height:5px;
+    border-left-width: 10px;
+    cursor: pointer;
+}
+#A1:hover {
+    width: 100px;
+    height: 130px;
+    font-family: tahoma;
+    text-align: left;
+    font-size: 40px;
+    float: left;
+    background-color: yellow;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-left-style: dashed;
+    border-left-color: black;
+    border-left-height:5px;
+    border-left-width: 10px;
+    cursor: pointer;
+ }
+ #A6:hover{ 
+    width: 100px;
+    height: 130px;
+    font-family: tahoma;
+    text-align: left;
+    float: right;
+    font-size: 40px;
+    background-color: yellow;
+    margin-top: 480px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-left-style: dashed;
+    border-left-color: black;
+    border-bottom-left-radius: 5px;
+    border
+    border-left-width: 10px;
+    cursor: pointer;
+}

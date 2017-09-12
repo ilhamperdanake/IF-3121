@@ -10,9 +10,10 @@
     padding-left: 10px;
     padding-top: 20px;
     border-left-style: dashed;
-    border-left-color: black;
+    border-left-color: #D0D0FF;
     border-left-height:5px;
     border-left-width: 10px;
+    border-spacing: 10px 10px;
     cursor: pointer;
 }
 .A2{
@@ -27,7 +28,7 @@
     padding-left: 10px;
     padding-top: 20px;
     border-left-style: dashed;
-    border-left-color: black;
+    border-left-color: #D0D0FF;
     border-left-height:5px;
     border-left-width: 10px;
     cursor: pointer;
@@ -44,7 +45,7 @@
     padding-left: 10px;
     padding-top: 20px;
     border-left-style: dashed;
-    border-left-color: black;
+    border-left-color: #D0D0FF;
     border-left-height:5px;
     border-left-width: 10px;
     cursor: pointer;
@@ -56,12 +57,13 @@
     font-family: tahoma;
     font-size: 40px;
     float: left;
+    color: goldenrod;
     background-color: yellow;
     margin-left: 10px;
     padding-left: 10px;
     padding-top: 20px;
     border-left-style: dashed;
-    border-left-color: black;
+    border-left-color: #D0D0FF;
     border-left-height:5px;
     border-left-width: 10px;
     cursor: pointer;
@@ -73,12 +75,13 @@
     text-align: left;
     font-size: 40px;
     float: left;
+    color: goldenrod;
     background-color: yellow;
     margin-left: 10px;
     padding-left: 10px;
     padding-top: 20px;
     border-left-style: dashed;
-    border-left-color: black;
+    border-left-color: #D0D0FF;
     border-left-height:5px;
     border-left-width: 10px;
     cursor: pointer;
@@ -86,18 +89,17 @@
  #A6:hover{ 
     width: 100px;
     height: 130px;
-    font-family: tahoma;
+    font : 40px Tahoma;
+    color: goldenrod;
     text-align: left;
     float: right;
-    font-size: 40px;
     background-color: yellow;
     margin-top: 480px;
     padding-left: 10px;
     padding-top: 20px;
     border-left-style: dashed;
-    border-left-color: black;
+    border-left-color: #D0D0FF;
     border-bottom-left-radius: 5px;
-    border
     border-left-width: 10px;
     cursor: pointer;
 }

@@ -97,6 +97,7 @@
 body{
 	font-family: Tahoma;
 	margin:10px;
+	cursor: pointer;
 }
 .A:hover{
 	background-color: yellow;
